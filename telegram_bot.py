@@ -155,7 +155,7 @@ def build_response(label, confidence, mode):
 # ─────────────────────────────────────
 # 3. TELEGRAM HANDLERS
 # ─────────────────────────────────────
-BOT_TOKEN = '8594635121:AAFtc0yayOB07yubBa-oGotCCkxnDRvxOvQ'  # ← paste token here
+BOT_TOKEN = 'PASTE_YOUR_BOT_TOKEN_HERE'  # ← paste token here
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(

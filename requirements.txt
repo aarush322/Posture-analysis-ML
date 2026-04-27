@@ -1,0 +1,9 @@
+torch
+torchvision
+ultralytics
+opencv-python
+python-telegram-bot
+scikit-learn
+numpy
+matplotlib
+seaborn

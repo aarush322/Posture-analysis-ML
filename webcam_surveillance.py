@@ -42,8 +42,8 @@ input("Press Enter to exit...")
 # ─────────────────────────────────────
 # 1. CONFIGURATION
 # ─────────────────────────────────────
-BOT_TOKEN   = '8594635121:AAFtc0yayOB07yubBa-oGotCCkxnDRvxOvQ'
-CHAT_ID     = '1674783463'
+BOT_TOKEN   = 'YOUR_BOT_TOKEN'
+CHAT_ID     = 'YOUR_CHAT_ID'
 MODEL_PATH  = "best_model_multiclass.pth"
 WINDOW_SIZE = 30
 COOLDOWN    = 10  # seconds between alerts (avoid spam)
